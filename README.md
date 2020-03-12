@@ -20,6 +20,6 @@ adonis serve --dev
 # Note
 
 - Plase add Google api key in JenosizeSearchByGoogleController [ I used Places API and Geocoding API]
-- In didnt ignore .env file because I don't want you to make a new one.
+- I didnt ignore .env file because I want it to be easy for test.
 
 Thank you.
